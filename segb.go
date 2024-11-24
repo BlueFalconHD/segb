@@ -3,8 +3,8 @@ package segb
 import (
 	"errors"
 	"fmt"
-	v1 "github.com/bluefalconhd/segb-go/v1"
-	v2 "github.com/bluefalconhd/segb-go/v2"
+	v1 "github.com/bluefalconhd/segb/v1"
+	v2 "github.com/bluefalconhd/segb/v2"
 	"hash/crc32"
 	"io"
 	"time"

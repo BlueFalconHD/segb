@@ -1,5 +1,5 @@
-module github.com/bluefalconhd/segb-go
+module github.com/bluefalconhd/segb
 
 go 1.22.4
 
-require github.com/bluefalconhd/deproto v0.0.0-20241124013733-2affa97fa845
+require github.com/bluefalconhd/segb-go v0.0.0-20241124214659-6a5dfe243364
